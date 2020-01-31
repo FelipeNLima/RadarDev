@@ -47,6 +47,6 @@ function App() {
 
 export default App;
 
-// Componente = bloco isolado de HTMML, CSS e JS, o qual não interfere no restante da aplicação
+// Componente = bloco isolado de HTML, CSS e JS, o qual não interfere no restante da aplicação
 // Estado = Informação mantidas pelo componente(Lembrar: imutabilidade);
 // Propriedade = Informações que um componene PAI passa para o componente FILHO
